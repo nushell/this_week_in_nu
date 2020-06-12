@@ -1,7 +1,7 @@
 # This week in Nu #42
 
 - utam0k added an option to `mkdir` to [show the paths being created](https://github.com/nushell/nushell/pull/1932)
-- JosephTLyons [removed async_stream from some commands](https://github.com/nushell/nushell/pull/1940) ((2)[https://github.com/nushell/nushell/pull/1951]), fixed [spaces in test paths](https://github.com/nushell/nushell/pull/1944), [updated `cal`](https://github.com/nushell/nushell/pull/1945), 
+- JosephTLyons [removed async_stream from some commands](https://github.com/nushell/nushell/pull/1940) ([2](https://github.com/nushell/nushell/pull/1951)), fixed [spaces in test paths](https://github.com/nushell/nushell/pull/1944), [updated `cal`](https://github.com/nushell/nushell/pull/1945), 
 - samhedin added support for [per-directory environment variables](https://github.com/nushell/nushell/pull/1943)
 - arashout improved `to toml` to [disallow top-level values](https://github.com/nushell/nushell/pull/1946)
 - daschl made (interruptible streams public)[https://github.com/nushell/nushell/pull/1952]
