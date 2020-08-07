@@ -8,7 +8,7 @@
 * bailey-layzer added [the `reduce` command](https://github.com/nushell/nushell/pull/2292)
 * kornelski moved Nu to use [the supported app-dirs crate](https://github.com/nushell/nushell/pull/2293)
 * k-brk added [`str contains` and `str index-of`](https://github.com/nushell/nushell/pull/2298)
-* andrasio did an [overhaul of how data reporting works internally](https://github.com/nushell/nushell/pull/2299), added support for [regular values in `histograms`](https://github.com/nushell/nushell/pull/2300), added `samping support for variance and standard deviation](https://github.com/nushell/nushell/pull/2310)
+* andrasio did an [overhaul of how data reporting works internally](https://github.com/nushell/nushell/pull/2299), added support for [regular values in `histograms`](https://github.com/nushell/nushell/pull/2300), added [samping support for variance and standard deviation](https://github.com/nushell/nushell/pull/2310)
 * nmandery added support for [parsing many more date formats](https://github.com/nushell/nushell/pull/2303)
 * fdncred updated the [rustyline default configuration](https://github.com/nushell/nushell/pull/2305)
 * candostdagdeviren added links for [Tagged<Value> and ShellError in the docs](https://github.com/nushell/contributor-book/pull/27)
