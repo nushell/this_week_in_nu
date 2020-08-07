@@ -1,3 +1,5 @@
+# This week in Nu #50
+
 * JosephTLyons fixed [histogram example](https://github.com/nushell/nushell/pull/2271), renamed [-f to -l in `ls` and `ps`](https://github.com/nushell/nushell/pull/2283), did some [internals cleanup](https://github.com/nushell/nushell/pull/2290)
 * jonathandturner removed [build.rs pre-build steps](https://github.com/nushell/nushell/pull/2282), added [--partial to `to html`](https://github.com/nushell/nushell/pull/2291), added support for [`do -i` to also redirect stderr](https://github.com/nushell/nushell/pull/2309), added [more columns to `ls` in demo](https://github.com/nushell/demo/pull/55)
 * thegedge updated the first parsing stage to [return partial results](https://github.com/nushell/nushell/pull/2284)
