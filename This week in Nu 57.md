@@ -1,4 +1,4 @@
-# This week in Nu #58
+# This week in Nu #57
 
 * gillespiecd [removed unused files in nu-data](https://github.com/nushell/nushell/pull/2598), [consolidated suggestion code](https://github.com/nushell/nushell/pull/2597), [cleaned up 'did you mean'](https://github.com/nushell/nushell/pull/2595), added [spaces between column suggestions](https://github.com/nushell/nushell/pull/2586)
 * fdncred [improved Windows builds](https://github.com/nushell/nushell/pull/2594), [added more table themes](https://github.com/nushell/nushell/pull/2579), [updated the operator map in the book](https://github.com/nushell/book/pull/132)(
