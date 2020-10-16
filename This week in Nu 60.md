@@ -1,6 +1,6 @@
 # This week in Nu #60
 
-* Couchbase announced a [new shell based on Nushell](couchbase.sh)
+* Couchbase announced a [new shell based on Nushell](http://couchbase.sh)
 * andrasio simplified [making column paths](https://github.com/nushell/nushell/pull/2674), added a [`flatten` command](https://github.com/nushell/nushell/pull/2670), made sure that [chart command binaries are properly installed](https://github.com/nushell/nushell/pull/2667), updated the [wix plugin checker](https://github.com/nushell/nushell/pull/2666), added back [bigint/bigdecimal serialization](https://github.com/nushell/nushell/pull/2662)
 * gillespiecd fixed a [typo in a crate description](https://github.com/nushell/nushell/pull/2669), added [tests for get_data_by_key](https://github.com/nushell/nushell/pull/2658), cleaned up [some extra files in the root](https://github.com/nushell/nushell/pull/2654)
 * fdncred added [bson and sqlite to the wix](https://github.com/nushell/nushell/pull/2668)
