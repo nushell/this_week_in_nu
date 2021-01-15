@@ -9,7 +9,7 @@
 * waldyrious improved the [README for the VSCode extension](https://github.com/nushell/vscode-nushell-lang/pull/13)
 * fdncred cleaned up the [VSCode extension assets](https://github.com/nushell/vscode-nushell-lang/pull/14), improved the [extension highlighting](https://github.com/nushell/vscode-nushell-lang/pull/15), improved [vsix versioning](https://github.com/nushell/vscode-nushell-lang/pull/16), and more improvements to the VSCode extension ([1](https://github.com/nushell/vscode-nushell-lang/pull/17), [2](https://github.com/nushell/vscode-nushell-lang/pull/18), [3](https://github.com/nushell/vscode-nushell-lang/pull/19))
 
-# Nushell
+## Nushell
 * Gymea added [the text of the alias to `which`](https://github.com/nushell/nushell/pull/2894), fixed [the print of descriptions when none were present](https://github.com/nushell/nushell/pull/2915), added [dirs support to nu-engine](https://github.com/nushell/nushell/pull/2922)
 * fdncred allowed [comparing string and filepaths](https://github.com/nushell/nushell/pull/2906), removed [`set` from the Windows built-ins](https://github.com/nushell/nushell/pull/2924), optimized a [use of regex](https://github.com/nushell/nushell/pull/2937)
 * jonathandturner split [nu-cli into nu-cli and nu-engine](https://github.com/nushell/nushell/pull/2898), [bumped to 0.25.2](https://github.com/nushell/nushell/pull/2908), fixed [the wasm build](https://github.com/nushell/nushell/pull/2919), 
