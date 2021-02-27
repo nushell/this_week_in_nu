@@ -1,4 +1,4 @@
-# This week in Nu $79
+# This week in Nu #79
 
 * ilius added [-i, -m, and -s flags to `match`](https://github.com/nushell/nushell/pull/3111)
 * jonathandturner bumped to [0.27.2](https://github.com/nushell/nushell/pull/3109), updated the wasm demo [to the latest nushell](https://github.com/nushell/demo)
