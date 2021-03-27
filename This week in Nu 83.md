@@ -10,7 +10,7 @@
 # VSCode plugin
 
 * fdncred updated the [VSCode plugin to 0.12](https://github.com/nushell/vscode-nushell-lang/commit/d622b768d034197c2162ab178ae2d6875f491341)
-* 
+
 ## Nushell
 
 * ahkrr fixed some [prompt-related issues](https://github.com/nushell/nushell/pull/3189)
