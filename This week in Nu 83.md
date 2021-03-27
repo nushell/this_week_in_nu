@@ -7,7 +7,7 @@
 * acanalis improved [documenation for the sample scripts](https://github.com/nushell/nu_scripts/pull/33)
 * John-Goff added a [new sample prompt](https://github.com/nushell/nu_scripts/pull/32)
 
-# VSCode plugin
+## VSCode plugin
 
 * fdncred updated the [VSCode plugin to 0.12](https://github.com/nushell/vscode-nushell-lang/commit/d622b768d034197c2162ab178ae2d6875f491341)
 
