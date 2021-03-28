@@ -18,5 +18,5 @@
 * gonatz added [forward slash completion for Windows](https://github.com/nushell/nushell/pull/3201)
 * donnatpanic improved [timezone support](https://github.com/nushell/nushell/pull/3207)
 * fdncred improved support for [tilde in the path](https://github.com/nushell/nushell/pull/3210)
-* jonathandturner fixed the [Rust 1.51 warnings](https://github.com/nushell/nushell/pull/3214), experimented with some [new engine ideas](https://youtu.be/2AknX7canvw)
+* jonathandturner fixed the [Rust 1.51 warnings](https://github.com/nushell/nushell/pull/3214), experimented with some [new engine ideas](https://github.com/jonathandturner/enginep)
 * andrasio updated [the test harness to use a custom config](https://github.com/nushell/nushell/pull/3217)
