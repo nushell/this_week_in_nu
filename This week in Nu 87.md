@@ -3,7 +3,7 @@
 ## Nushell
 
 * ccde177b5fb9b8c55078417b4c9fee removed the [ichwh dependency](https://github.com/nushell/nushell/pull/3349)
-* jonathandturner created the release for nushell [0.30.0](https://github.com/nushell/nushell/pull/3333) and [0.30.1](https://github.com/nushell/nushell/pull/3348), fixed an [external redirect](https://github.com/nushell/nushell/pull/3345) issue, updated how [dynamic blocks](https://github.com/nushell/nushell/pull/3339) are evaluated, fixed a bug in how the [path environment](https://github.com/nushell/nushell/pull/3336) variable is handled and [synced](https://github.com/nushell/nushell/pull/3335), updated how [nth](https://github.com/nushell/nushell/pull/3330) works with streaming
+* jonathandturner created the release for nushell [0.30.0](https://github.com/nushell/nushell/pull/3333), fixed an [external redirect](https://github.com/nushell/nushell/pull/3345) issue, updated how [dynamic blocks](https://github.com/nushell/nushell/pull/3339) are evaluated, fixed a bug in how the [path environment](https://github.com/nushell/nushell/pull/3336) variable is handled and [synced](https://github.com/nushell/nushell/pull/3335), updated how [nth](https://github.com/nushell/nushell/pull/3330) works with streaming
 * fdncred added an new experimental [query json](https://github.com/nushell/nushell/pull/3327) plugin
 * LhKipp update the [any?](https://github.com/nushell/nushell/pull/3324), [all?](https://github.com/nushell/nushell/pull/3312), [compact](https://github.com/nushell/nushell/pull/3325) and [which](https://github.com/nushell/nushell/pull/3310) commands to the new engine-p style
 * kubouch update the [path command](https://github.com/nushell/nushell/pull/3256) with several new features
