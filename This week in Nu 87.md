@@ -14,7 +14,7 @@
 
 ## Documentation
 
-* ChristopherBiscardi updated the [starship documentation](https://github.com/nushell/nushell.github.io/pull/125) for nusehll
+* ChristopherBiscardi updated the [starship documentation](https://github.com/nushell/nushell.github.io/pull/125) for Nushell
 * jonathandturner updated the release [blog post](https://github.com/nushell/nushell.github.io/pull/124)
 * ammkrn updated the documentation for [ls -al](https://github.com/nushell/nushell.github.io/pull/123)
 * Sympatron update the configuration docs for [completion_match_method](https://github.com/nushell/nushell.github.io/pull/121)
