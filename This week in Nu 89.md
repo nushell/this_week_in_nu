@@ -13,5 +13,4 @@
 ## Nu_Scripts
 
 - fdncred added a [table grouping experiment, update twin to support single user per row](https://api.github.com/repos/nushell/nu_scripts/issues/48) and [added TWiN weeknum guess](https://api.github.com/repos/nushell/nu_scripts/issues/46)
-
 - efx added [a one liner to parse aws s3 ls output](https://api.github.com/repos/nushell/nu_scripts/issues/47)
