@@ -17,10 +17,6 @@
 - andrasio updated [main page descriptions](https://github.com/nushell/nushell.github.io/pull/158), and [fixed correct shell word translation.](https://github.com/nushell/nushell.github.io/pull/157) 
 - elferherrera created [cookbook page](https://github.com/nushell/nushell.github.io/pull/156), and [dataframes page](https://github.com/nushell/nushell.github.io/pull/155) 
 
-## Wasm
-
-none found this week
-
 ## Nu_Scripts
 
 - efx [removed duplicate file](https://github.com/nushell/nu_scripts/pull/73) 
