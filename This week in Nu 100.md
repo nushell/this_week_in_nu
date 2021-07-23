@@ -25,3 +25,6 @@ We reached #100!! 🎉🎉🎉
 - x3rAx created [📦 NEW: Config with separate startup script and edit commands](https://github.com/nushell/nu_scripts/pull/75) 
 - dirtybit [fixed broken links to scripts](https://github.com/nushell/nu_scripts/pull/74) 
 
+## Packaging
+
+- Nushell is now available for [netbsd](https://pkgsrc.se/shells/nushell)
