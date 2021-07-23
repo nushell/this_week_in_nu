@@ -27,4 +27,4 @@ We reached #100!! 🎉🎉🎉
 
 ## Packaging
 
-- Nushell is now available for [netbsd](https://pkgsrc.se/shells/nushell)
+- pin added Nushell to the [netbsd package repo](https://pkgsrc.se/shells/nushell)
