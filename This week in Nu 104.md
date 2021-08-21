@@ -1,4 +1,4 @@
-# This week in Nushell #105
+# This week in Nushell #104
 
 ## Nushell
 
