@@ -15,7 +15,6 @@
 ## Documentation
 
 - filaretov [documented removing environment variables](https://github.com/nushell/nushell.github.io/pull/190) 
-## Wasm
 
 ## Nu_Scripts
 
