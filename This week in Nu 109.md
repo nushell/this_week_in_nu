@@ -9,7 +9,6 @@
 - andrasio improved [Flexibly updating table's cells.](https://github.com/nushell/nushell/pull/4027) 
 - tw4452852 added [support for completion when cursor is inside an argument](https://github.com/nushell/nushell/pull/4023) 
 - Pantonshire [fixed #3090: `let` binding in command leaks when error occurs](https://github.com/nushell/nushell/pull/4022) 
-## Extension
 
 ## Documentation
 
