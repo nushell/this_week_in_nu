@@ -25,7 +25,7 @@
 
 ## reedline
 
-- jntrnr [updated LICENSE](https://github.com/nushell/reedline/pull/163), and [added list style completions](https://github.com/nushell/reedline/pull/162) 
+- jt [updated LICENSE](https://github.com/nushell/reedline/pull/163), and [added list style completions](https://github.com/nushell/reedline/pull/162) 
 - sholderbach created [Fix README badges](https://github.com/nushell/reedline/pull/161), and [Clarify method names for undo-interface](https://github.com/nushell/reedline/pull/160), and [Simplify and document history trait](https://github.com/nushell/reedline/pull/159), and [fixed CtrlD/CtrlC and reverse-history-search + stuff](https://github.com/nushell/reedline/pull/155) 
 - mzanrosso created [[BugFix] undo function](https://github.com/nushell/reedline/pull/143) 
 
