@@ -7,7 +7,7 @@
 - waldyrious created [stale.yml: mention time to close in stale message](https://github.com/nushell/nushell/pull/4066) 
 - JoshCheek [added `-c` flag to `select` command](https://github.com/nushell/nushell/pull/4062) 
 - hedonihilist added [expand tilde when reading plugin_dirs](https://github.com/nushell/nushell/pull/4052) 
-- hojjatabdollahi [fixeded two typos in the tutor.](https://github.com/nushell/nushell/pull/4051) 
+- hojjatabdollahi [fixed two typos in the tutor.](https://github.com/nushell/nushell/pull/4051) 
 
 ## Documentation
 
