@@ -1,4 +1,4 @@
-# This week in Nushell #117
+# This week in Nushell #116
 
 
 ## Nu_Scripts
