@@ -18,7 +18,7 @@
 - nibon7 created [Create config directory if it does not exist](https://github.com/nushell/engine-q/pull/625) 
 - hustcer created [Ported `ignore` command to engine-q](https://github.com/nushell/engine-q/pull/621) 
 - sholderbach created [Decode escaped newlines in history command](https://github.com/nushell/engine-q/pull/592)
-- 
+ 
 ## reedline
 
 - elferherrera [adjusted position to insert in middle](https://github.com/nushell/reedline/pull/226), and [prompt moves based on hint](https://github.com/nushell/reedline/pull/217), and [vi insert mode kept after enter](https://github.com/nushell/reedline/pull/214), and [vi insert mode default](https://github.com/nushell/reedline/pull/213), and [vi mode commands](https://github.com/nushell/reedline/pull/211) 
