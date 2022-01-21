@@ -1,4 +1,4 @@
-# This week in Nushell #127
+# This week in Nushell #126
 
 Note: this is the first "This week in Nu" created with engine-q!
 
