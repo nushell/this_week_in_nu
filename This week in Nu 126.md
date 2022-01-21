@@ -4,7 +4,7 @@ Note: this is the first "This week in Nu" created with engine-q!
 
 ## Nushell
 
-- jt created [released 0.43](https://github.com/nushell/nushell/pull/4264), and added [Tutor eq](https://github.com/nushell/nushell/pull/4263), and [fixed clippy lints](https://github.com/nushell/nushell/pull/4262) 
+- jt [released 0.43](https://github.com/nushell/nushell/pull/4264), and added [Tutor eq](https://github.com/nushell/nushell/pull/4263), and [fixed clippy lints](https://github.com/nushell/nushell/pull/4262) 
 - GuillaumeGomez [update sysinfo version](https://github.com/nushell/nushell/pull/4261) 
 - dependabot [bumped follow-redirects from 1.14.4 to 1.14.7 in /samples/wasm](https://github.com/nushell/nushell/pull/4258) 
 
