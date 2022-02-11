@@ -20,9 +20,8 @@
 
 - stormasm [updated file_cat to remove json files that are created](https://github.com/nushell/nu_scripts/pull/143), and [port dict.nu over to engine-q/cool_oneliners](https://github.com/nushell/nu_scripts/pull/142), and [port over to engine-q the script file_cat.nu](https://github.com/nushell/nu_scripts/pull/141) 
 - skelly37 added [WolframAlpha API wrappers](https://github.com/nushell/nu_scripts/pull/140) 
-- 
-## engine-q
 
+## engine-q
 
 - jt created [bump reedline](https://github.com/nushell/engine-q/pull/970), and [Make PipelineData helpers collect rawstreams](https://github.com/nushell/engine-q/pull/969), and [Oops, match semantics of each group/window](https://github.com/nushell/engine-q/pull/967), and [Add each window](https://github.com/nushell/engine-q/pull/966), and [Add par-each group](https://github.com/nushell/engine-q/pull/965), and [Fix completion duplicates](https://github.com/nushell/engine-q/pull/964), and [Switch more commands to redirecting blocks](https://github.com/nushell/engine-q/pull/956), and [Port each group](https://github.com/nushell/engine-q/pull/953), and [Remove broken error make examples](https://github.com/nushell/engine-q/pull/951), and [Error make](https://github.com/nushell/engine-q/pull/948) 
 - elferherrera created [Reedline bump](https://github.com/nushell/engine-q/pull/962) 
