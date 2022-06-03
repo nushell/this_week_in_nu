@@ -3,9 +3,9 @@
 ## Nushell
 
 - sholderbach [used search terms in the help menu search](https://github.com/nushell/nushell/pull/5708), and [Update nu-ansi-term to remove `Deref` impl](https://github.com/nushell/nushell/pull/5706), and [Improve internal documentation of `save` command](https://github.com/nushell/nushell/pull/5704), and [Update reedline](https://github.com/nushell/nushell/pull/5678), and [Clarify error message for `let` in pipeline](https://github.com/nushell/nushell/pull/5677)
-- VergeDX [fixed [table]: Panic when passthru small number of `table -w`.](https://github.com/nushell/nushell/pull/5705)
+- VergeDX [fixed: Panic when passthru small number of `table -w`.](https://github.com/nushell/nushell/pull/5705)
 - rgwood [fixed `ls` for Windows system files](https://github.com/nushell/nushell/pull/5703)
-- PerBothner created [Minor fixes to shell integation in repl.](https://github.com/nushell/nushell/pull/5701), and [Improve <table> output of 'to html',](https://github.com/nushell/nushell/pull/5699)
+- PerBothner created [Minor fixes to shell integation in repl.](https://github.com/nushell/nushell/pull/5701), and [Improve table output of 'to html',](https://github.com/nushell/nushell/pull/5699)
 - Yethal [added completions for nu](https://github.com/nushell/nushell/pull/5700)
 - kubouch [fixed wrong `path` help message](https://github.com/nushell/nushell/pull/5698)
 - hustcer [fixed doc building for vuepress-next, avoid using angle brackets](https://github.com/nushell/nushell/pull/5696), and [feat: Add sensitive flag to get, fix #4295](https://github.com/nushell/nushell/pull/5685)
@@ -13,7 +13,7 @@
 - WindSoilder [expanded env for path](https://github.com/nushell/nushell/pull/5692), and [make ls works better with glob](https://github.com/nushell/nushell/pull/5691), and [base64 command more friendly](https://github.com/nushell/nushell/pull/5680)
 - elferherrera created [Lazy dataframes](https://github.com/nushell/nushell/pull/5687)
 - mjclements [differentiated internal signature from external signature w.r.t. help](https://github.com/nushell/nushell/pull/5667)
-- Kangaxx-0[fixed cp bug](https://github.com/nushell/nushell/pull/5642)
+- Kangaxx-0 [fixed cp bug](https://github.com/nushell/nushell/pull/5642)
 
 ## Documentation
 
