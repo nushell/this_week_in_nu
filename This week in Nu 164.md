@@ -1,20 +1,17 @@
 # This week in Nushell #164
 
-
 ## Nushell
 
-
-- Dorumin created [Fix quadratic time complexity with large strides](https://github.com/nushell/nushell/pull/6727)
-- fdncred created [add the ability to convert durations](https://github.com/nushell/nushell/pull/6723)
-- Dylan987 created [Add search terms for export commands](https://github.com/nushell/nushell/pull/6722)
-- zephaniahong created [Add search terms for uppercase](https://github.com/nushell/nushell/pull/6720)
+- Dorumin [fixed quadratic time complexity with large strides](https://github.com/nushell/nushell/pull/6727)
+- fdncred [added the ability to convert durations](https://github.com/nushell/nushell/pull/6723)
+- Dylan987 [added search terms for export commands](https://github.com/nushell/nushell/pull/6722)
+- zephaniahong [added search terms for uppercase](https://github.com/nushell/nushell/pull/6720)
 - merelymyself created [let `alias` list aliases](https://github.com/nushell/nushell/pull/6717), and [return gid and uid in numbers if name not found](https://github.com/nushell/nushell/pull/6684), and [allow for `$in` to affect environment](https://github.com/nushell/nushell/pull/6649)
-- HoLLy-HaCKeR created [Fix invalid variable name in `input` command docs](https://github.com/nushell/nushell/pull/6716)
-
-- sholderbach created [Backport fixes from nushell/nushell.github.io#633](https://github.com/nushell/nushell/pull/6712), and [Fix e.g. completion `git push --force-with-lease`](https://github.com/nushell/nushell/pull/6702)
-- WindSoilder created [avoid freeze when capturing external stderr](https://github.com/nushell/nushell/pull/6700), and [avoid freeze for table print](https://github.com/nushell/nushell/pull/6688)
-- jake-albert created [Return error on `str replace` RegEx parse fail](https://github.com/nushell/nushell/pull/6695)
-- bcmyers created [Upgrade num-format to 0.4.3](https://github.com/nushell/nushell/pull/6694)
+- HoLLy-HaCKeR [fixed invalid variable name in `input` command docs](https://github.com/nushell/nushell/pull/6716)
+- sholderbach [backported fixes from nushell/nushell.github.io#633](https://github.com/nushell/nushell/pull/6712), and [Fix e.g. completion `git push --force-with-lease`](https://github.com/nushell/nushell/pull/6702)
+- WindSoilder [avoided freeze when capturing external stderr](https://github.com/nushell/nushell/pull/6700), and [avoid freeze for table print](https://github.com/nushell/nushell/pull/6688)
+- jake-albert [returned error on `str replace` RegEx parse fail](https://github.com/nushell/nushell/pull/6695)
+- bcmyers [upgraded num-format to 0.4.3](https://github.com/nushell/nushell/pull/6694)
 
 ## Documentation
 
