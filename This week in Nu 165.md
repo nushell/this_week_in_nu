@@ -10,8 +10,7 @@
 - nibon7 [added missing `shape_directory` to default_config.nu](https://github.com/nushell/nushell/pull/6836), and fixed issues in `rm` ([1](https://github.com/nushell/nushell/pull/6815), [2](https://github.com/nushell/nushell/pull/6837))
 - rgwood did some [diagnostics logging streamlining+tweaks](https://github.com/nushell/nushell/pull/6834) and [added command help in the `from`+`to` commands](https://github.com/nushell/nushell/pull/6856)
 - fdncred [added a filesize_metric comment](https://github.com/nushell/nushell/pull/6760)
-- jntrnr [fixed let-env in the startup banner](https://github.com/nushell/nushell/pull/6795)
-
+- jt [fixed let-env in the startup banner](https://github.com/nushell/nushell/pull/6795)
 - sholderbach [pinned Reedline to the 0.13.0 release](https://github.com/nushell/nushell/pull/6789), and [upgraded Reedline to the latest dev version](https://github.com/nushell/nushell/pull/6778)
 - JEndler [updated README.md](https://github.com/nushell/nushell/pull/6782)
 - valpackett wrote a fix to [tolerate more tty acquisition failures in non-interactive mode](https://github.com/nushell/nushell/pull/6779)
