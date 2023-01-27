@@ -34,8 +34,6 @@
 - max-nextcloud created [Update rust version requirement in installation](https://github.com/nushell/nushell.github.io/pull/752)
 - WindSoilder created [update doc about stdout and stderr](https://github.com/nushell/nushell.github.io/pull/751)
 
-## Wasm
-
 
 ## Nu_Scripts
 
@@ -44,8 +42,6 @@
 - Hofer-Julian created [Fix scoop completions](https://github.com/nushell/nu_scripts/pull/363), and [git-completions: Stop checking `--force-with-lease`](https://github.com/nushell/nu_scripts/pull/362), and [conda: Check if environment exists before activating](https://github.com/nushell/nu_scripts/pull/361), and [Explain how to create an alias for conda activate without a prompt](https://github.com/nushell/nu_scripts/pull/360)
 - schrieveslaach created [Fix git checkout/switch completions](https://github.com/nushell/nu_scripts/pull/359), and [Improve git checkout/switch completions](https://github.com/nushell/nu_scripts/pull/358)
 - 1Kinoti created [add todo script](https://github.com/nushell/nu_scripts/pull/357)
-
-## RFCs
 
 
 ## reedline
