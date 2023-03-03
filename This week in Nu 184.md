@@ -36,8 +36,6 @@
 - debemdeboas created [Rename $env.PATH to $env.Path to reflect actual shell behavior](https://github.com/nushell/nushell.github.io/pull/801)
 - gustavopmaia created [feat: Remove welcome message](https://github.com/nushell/nushell.github.io/pull/799)
 
-## Wasm
-
 
 ## Nu_Scripts
 
@@ -47,14 +45,9 @@
 - washanhanzi created [FIX `kubernetes.nu` since str lpad and str rpad are deprecated in 0.76](https://github.com/nushell/nu_scripts/pull/394)
 - Yethal created [Add parsers for cpuinfo and dmidecode](https://github.com/nushell/nu_scripts/pull/393)
 
-## RFCs
-
-
 ## reedline
 
 
 - merelymyself created [allow reedline ctrl+o to take editor arguments](https://github.com/nushell/reedline/pull/544)
-
-## Nana
 
 
