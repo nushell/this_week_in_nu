@@ -38,6 +38,3 @@
 
 - sholderbach created [Update motto title](https://github.com/nushell/reedline/pull/640)
 - horasal created [Accept `Command` with args for `BufferEditor`](https://github.com/nushell/reedline/pull/630)
-
-- sholderbach created [Update motto title](https://github.com/nushell/reedline/pull/640)
-- horasal created [Accept `Command` with args for `BufferEditor`](https://github.com/nushell/reedline/pull/630)
