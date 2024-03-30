@@ -11,7 +11,7 @@
 - merelymyself [exposed the recursion limit value as a config option](https://github.com/nushell/nushell/pull/12308)
 - AucaCoyan [reworked some help strings](https://github.com/nushell/nushell/pull/12306), and [fixed a bug with IDE tooltips](https://github.com/nushell/nushell/pull/12273)
 - FilipAndersson245 [fixed a broken benchmark](https://github.com/nushell/nushell/pull/12297), and [boxed records for smaller Value enum](https://github.com/nushell/nushell/pull/12252)
-- Dorumin [implemented parameter interpolation for `query db`](https://github.com/nushell/nushell/pull/12249)
+- Dorumin [implemented parameterization for `query db`](https://github.com/nushell/nushell/pull/12249)
 - dmatos2012 [created an initial implementation for uutils `uname`](https://github.com/nushell/nushell/pull/11684)
 - schrieveslaach [included more info for LSP completion](https://github.com/nushell/nushell/pull/11443)
 
