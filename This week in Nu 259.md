@@ -2,7 +2,7 @@
 
 ## Nushell
 
-- ysthakur [added completions.sort option](https://github.com/nushell/nushell/pull/13311)
+- ysthakur [added a new `completions.sort` option](https://github.com/nushell/nushell/pull/13311)
 - ayax79 [merged `polars sink` and `polars to-*` into `polars save`](https://github.com/nushell/nushell/pull/13568), [added `polars sink` command for streaming collect](https://github.com/nushell/nushell/pull/13562), [made `polars open` open a lazy frame by default](https://github.com/nushell/nushell/pull/13556), [updated `polars first` and `polars last` to handle lazy frames natively](https://github.com/nushell/nushell/pull/13555), [added plist support](https://github.com/nushell/nushell/pull/13545), and [attempted to guess file content type when opening with --raw](https://github.com/nushell/nushell/pull/13521)
 - Qnbie [made the math commands const](https://github.com/nushell/nushell/pull/13566)
 - qfel [cleaned up key event handling in `explore`](https://github.com/nushell/nushell/pull/13574)
