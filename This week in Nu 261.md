@@ -12,7 +12,7 @@
 - IanManske [made `reduce` args and input explicit](https://github.com/nushell/nushell/pull/13646), and [fixed clippy lints](https://github.com/nushell/nushell/pull/13645)
 - poliorcetics [fixed broken doc links](https://github.com/nushell/nushell/pull/13644)
 - gwenya [improved help output for scripts](https://github.com/nushell/nushell/pull/13445)
-- zhiburt [checked fix for emoji, wrap issues](https://github.com/nushell/nushell/pull/13430)
+- zhiburt [made a fix for emoji, wrapping issues in table printing](https://github.com/nushell/nushell/pull/13430)
 
 ## Documentation
 
