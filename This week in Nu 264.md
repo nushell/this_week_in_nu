@@ -4,7 +4,7 @@
 
 - Ancient77 [expanded multiple dots in path completions](https://github.com/nushell/nushell/pull/13725)
 - fdncred [allowed tab characters to be retained with `find`](https://github.com/nushell/nushell/pull/13848), and [bumped rust version to 1.79.0](https://github.com/nushell/nushell/pull/13809)
-- hustcer [updated Nu in the release workflow](https://github.com/nushell/nushell/pull/13840), and [added aarch64-unknown-linux-musl and armv7-unknown-linux-musleabihf targets](https://github.com/nushell/nushell/pull/13800)
+- hustcer updated the release workflow: [bumped the Nu version](https://github.com/nushell/nushell/pull/13840),  [added `aarch64-unknown-linux-musl` and `armv7-unknown-linux-musleabihf` targets](https://github.com/nushell/nushell/pull/13800)
 - devyn [fixed `try`: Added `set_last_error()` to `prepare_error_handler()` for IR eval](https://github.com/nushell/nushell/pull/13838), and [fixed remaining mismatch for env handling in IR](https://github.com/nushell/nushell/pull/13796)
 - ayax79 [made `polars save` return an empty pipeline](https://github.com/nushell/nushell/pull/13833), [migrated polars commands away from macros, removed custom DataFrame comparison](https://github.com/nushell/nushell/pull/13829), and [added documentation explanation explaining how to select all columns with `polars col`](https://github.com/nushell/nushell/pull/13806)
 - nome [added a --number flag to `split column`](https://github.com/nushell/nushell/pull/13831)
