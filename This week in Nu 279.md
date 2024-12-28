@@ -15,7 +15,7 @@
 - Bahex [added `bytes split` command](https://github.com/nushell/nushell/pull/14652), [added binary input support to `chunks`](https://github.com/nushell/nushell/pull/14649), and [ran ENV_CONVERSIONS whenever it's modified](https://github.com/nushell/nushell/pull/14591)
 - ayax79 [added Polars AWS S3 support](https://github.com/nushell/nushell/pull/14648)
 - rikukiix [switched from serde_yaml to serde_yml](https://github.com/nushell/nushell/pull/14630)
-- RobbingDaHood fixed several parser issues with comments](https://github.com/nushell/nushell/pull/14616)
+- RobbingDaHood [fixed several parser issues with comments](https://github.com/nushell/nushell/pull/14616)
 - zhiburt [bumped tabled to 0.17](https://github.com/nushell/nushell/pull/14415)
 
 ## Documentation
